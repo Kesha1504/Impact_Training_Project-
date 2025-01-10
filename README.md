@@ -17,6 +17,12 @@ The objective of the game is to be the first player to reach exactly position 10
 
 ---
 
+### **Tech Stack**
+- **Python**: The primary language used to build the game.  
+- **Random Module**: For generating dice rolls and positions for snakes and ladders.
+
+---
+
 ## **Solution**  
 This project addresses the problem by providing:  
 1. A fully digital version of Snake and Ladder that runs in the console.  
